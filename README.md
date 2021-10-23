@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on Google
 - 🏫 I learn from Elzero Web School
-- 🔭 I’m currently working on My Personal Site
+- 🔭 I am currently working on learning Json and Ajax
+- This is my portfolio: [portfolio](https://maro-portfolio.netlify.app/)
 
 
 <!--
