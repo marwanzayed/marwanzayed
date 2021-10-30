@@ -1,5 +1,7 @@
 <h1 align=center>A New Era Has Begun</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&vCenter=true&lines=HTML%2C+CSS%2C+SASS%2C+JavaScript%2C+JSON)](https://git.io/typing-svg)
+
 
 - 👋 Hi, I’m Marwan Zayed
 - 👀 I’m interested in Web Domain
