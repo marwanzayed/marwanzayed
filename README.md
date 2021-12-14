@@ -19,5 +19,8 @@
 - 💞️ I’m looking to collaborate on Google
 - 🏫 I learn from Elzero Web School
 - 🔭 I am currently working on learning Json and Ajax
-- This is my portfolio: [portfolio](https://maro-portfolio.netlify.app/)
+- 💬 This is my portfolio: [portfolio](https://maro-portfolio.netlify.app/)
+- My testimony is from a barmej platform [from here](https://app.barmej.com/user/Marwan-Zayed)
+
+
 
